@@ -3,19 +3,19 @@
 This project is a full-stack sentiment analysis system designed to classify text into positive, neutral, or negative sentiment. The project includes data preprocessing, model training, and deployment .
 
 ## Project Structure
-sentiment-analysis/
+sentiment-analysis/  
 │
-├── data1.csv                        # Contains raw datasets
+├── data1.csv                        # Contains raw datasets  
 │
 │
-├── new_p.ipynb                   # Jupyter notebooks for experimentation evaluate machine learning models and save
+├── new_p.ipynb                   # Jupyter notebooks for experimentation evaluate machine learning models and save  
 │
-├── best_models/                     # Directory to save trained models
-│   ├── logistic_regression.pkl      # Serialized logistic regression model
-│   ├── svc.py              # Serialized svc  model
-│   ├── random_forest.py    # Serialized random_forest model
-│   ├── knn.py              # Serialized knn model
-│   ├── decision_tree.py    # Serialized decision_tree model
+├── best_models/                     # Directory to save trained models  
+│   ├── logistic_regression.pkl      # Serialized logistic regression model  
+│   ├── svc.py              # Serialized svc  model  
+│   ├── random_forest.py    # Serialized random_forest model  
+│   ├── knn.py              # Serialized knn model  
+│   ├── decision_tree.py    # Serialized decision_tree model  
 │   └── templates/               # Directory for HTML templates
 │       └── index.html           # Main HTML page for user input and displaying results
 │
