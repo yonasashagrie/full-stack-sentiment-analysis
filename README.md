@@ -1,6 +1,6 @@
 # full-stack-sentiment-analysis
 ## Overview
-This project is a full-stack sentiment analysis system designed to classify text into positive, neutral, or negative sentiment. The project includes data preprocessing, model training, and deployment .
+This project is a full-stack sentiment analysis system designed to classify text into positive, neutral, or negative sentiment. The project includes data preprocessing, model training, and deployment using Flask.
 
 ## Project Structure
 sentiment-analysis/  
