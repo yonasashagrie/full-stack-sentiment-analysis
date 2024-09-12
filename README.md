@@ -26,10 +26,6 @@ sentiment-analysis/
 │       └── index.html           # Main HTML page for user input and displaying results  
 |   ├── app.py                   # Flask app for serving the sentiment analysis model  
 |   ├── clean_function.app       # Scripts for cleaning and preprocessing the data  
-|   ├──requirements.txt             # List of Python dependencies  
-|       
-├── .pred/                       # Virtual environment directory (usually not checked into version control)  
-│   ├── Scripts/                 # Executables and scripts for the virtual environment  
-│   └── ...                      # Other virtual environment files  
+|   ├──requirements.txt             # List of Python dependencies    
 
 
