@@ -26,6 +26,8 @@ sentiment-analysis/
 │       └── index.html           # Main HTML page for user input and displaying results  
 |   ├── app.py                   # Flask app for serving the sentiment analysis model  
 |   ├── clean_function.app       # Scripts for cleaning and preprocessing the data  
-|   ├──requirements.txt             # List of Python dependencies    
+|   ├──requirements.txt             # List of Python dependencies
+
+link : https://text-processing.com/demo/sentiment/
 
 
