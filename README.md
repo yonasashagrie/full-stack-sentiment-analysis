@@ -28,6 +28,5 @@ sentiment-analysis/
 |   ├── clean_function.app       # Scripts for cleaning and preprocessing the data  
 |   ├──requirements.txt             # List of Python dependencies
 
-link:https://sentivisor.com/sentiment-analysis-free-online-demo/
 
 
